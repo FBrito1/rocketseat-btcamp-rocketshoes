@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "global": "^4.4.0",
+    "immer": "^4.0.1",
     "json-server": "^0.15.1",
     "polished": "^3.4.1",
     "react": "^16.10.1",
@@ -16,6 +17,7 @@
     "reactotron-react-js": "^3.3.4",
     "reactotron-redux": "^3.1.2",
     "redux": "^4.0.4",
+    "redux-saga": "^1.1.1",
     "styled-components": "^4.4.0"
   },
   "scripts": {
